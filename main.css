@@ -1,0 +1,13 @@
+h1,h2{
+    text-align: center;
+}
+.picture1{
+    width: 300px;
+    float:left; /* 圖片在左邊 */
+    padding: 20px;
+  }
+.picture2{
+    width: 300px;
+    float:left; /* 圖片在右邊 */
+    padding: 20px;
+}
