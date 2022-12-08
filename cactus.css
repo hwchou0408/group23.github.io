@@ -75,6 +75,11 @@
     scroll-behavior: smooth;
   }
 }
+.responsivecoverpic {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
 
 body {
   margin: 0;
