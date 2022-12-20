@@ -78,12 +78,12 @@
 
 .map{
   float: left;
-  width: 350px;
+  width: 400px;
   padding-top: 20px;
 }
 
 .map-height{
-  height: 200px;
+  height: 350px;
 }
 .map-text{
   padding-top: 50px;
